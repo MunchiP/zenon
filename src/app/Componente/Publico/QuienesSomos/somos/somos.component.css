@@ -1,0 +1,171 @@
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.line{
+    height: 5px;
+    background: greenyellow;
+    border: none;
+    width: 900px;
+    margin-top: 7%;
+}
+
+
+.container{
+    justify-content: center;
+}
+
+
+
+.line1{
+    height: 5px;
+    background: #f9b208;
+    border: none;
+    width: 900px;
+}
+
+
+
+.contenedor{
+    justify-content: center;
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content{
+    height: 150px;
+    width: 400px;
+    background: aliceblue;
+    color: rgb(13, 97, 13);
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-left: 210px;
+}
+
+.content:hover{
+    box-shadow: 6px 6px 10px;
+}
+
+.emoji{
+    height: 110px;
+    width: 110px;
+    font-size: 100px;
+    text-align: center;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    color: black;
+}
+
+
+
+
+p{
+    margin-top: 60px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+img{
+    height: 700px;
+}
+
+.img{
+    margin-left: 700px;
+    margin-top: -740px;
+}
+
+
+
+
+/* .line{
+    height: 5px;
+    background: greenyellow;
+    border: none;
+    width: 900px;
+}
+
+.line1{
+    height: 5px;
+    background: #f9b208;
+    border: none;
+    width: 900px;
+}
+
+.container{
+    justify-content: center;
+}
+
+.contenedor{
+    height: 100%;
+    width: auto;
+}
+
+.content{
+    height: 150px;
+    width: 400px;
+    background: aliceblue;
+    color: rgb(13, 97, 13);
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -600px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-left: 150px;
+}
+
+.content:hover{
+    box-shadow: 6px 6px 10px;
+}
+
+.emoji{
+    height: 110px;
+    width: 110px;
+    font-size: 100px;
+    text-align: center;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    color: black;
+}
+
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    margin-top: 60px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+img{
+    height: 600px;
+}
+
+.img{
+    margin-left: 700px;
+} */
+
+/* .n0{
+    margin-left: 200px;
+}
+
+.n1{
+    margin-left: 300px;
+}
+
+.n2{
+    margin-left: 400px;
+}
+
+.n3{
+    margin-left: 500px;
+} */

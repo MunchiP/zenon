@@ -1,0 +1,100 @@
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.line{
+    height: 5px;
+    background: greenyellow;
+    border: none;
+    width: 900px;
+    margin-top: 4rem;
+}
+
+.line1{
+    height: 5px;
+    background: #f9b208;
+    border: none;
+    width: 900px;
+}
+
+.contenedor {
+  min-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.option1 {
+  display: block;
+  position: relative;
+  width: 20rem;
+  height: 20rem;
+  cursor: pointer;
+  /* background: url(https://raw.githubusercontent.com/MunchiP/ImagenesBiblio/8ed4b43759fd7c6b6c370ca3deabb31424658257/IMG_20181108_161253776_HDR.jpg) no-repeat 100% 50%;
+  background-size: 120%; */
+  border-radius: 50%; 
+  transition: all 0.5s cubic-bezier(.55,0,.1,1);
+  box-shadow: 0px .5rem 1rem rgba(0,0,0, 0.75);
+  margin-top: 3rem;
+}
+
+.option2 {
+  display: block;
+  position: relative;
+  width: 20rem;
+  height: 20rem;
+  cursor: pointer;
+  /* background: url(https://raw.githubusercontent.com/MunchiP/ImagenesBiblio/8ed4b43759fd7c6b6c370ca3deabb31424658257/MVIMG_20180810_103528225.jpg) no-repeat 100% 50%;
+  background-size: 120%;  */
+  border-radius: 50%;
+  transition: all 0.5s cubic-bezier(.55,0,.1,1);
+  box-shadow: 0px .5rem 1rem rgba(0,0,0, 0.75);
+  margin-left: 10rem;
+  margin-top: 3rem;
+}
+
+img{
+  height: 20rem;
+  width: 20rem;
+  border-radius: 50%;
+}
+
+.option1:hover {
+    box-shadow: 0px .5rem 2rem rgba(0,0,0,.75);
+    background-position: 0% 50%;
+  }
+
+  p {
+    display: block;
+    position: absolute;
+    width: 10rem;
+    height: 10rem;
+    line-height: 10rem;
+    left: 50%;
+    top: 50%;
+    margin-top: -5rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 50%;
+    background: rgb(13, 97, 13);
+    /* transform: rotate(-180deg) translate(-(20rem / 2)) rotate(180deg); */
+    box-shadow: 0px .5rem 1rem rgba(0,0,0,.5);
+    transition: 0.2s ;
+    /* transition: all 0.5s cubic-bezier(.55,0,.1,1); */
+  }
+
+  p:hover {
+    transform: rotate(-45deg) translate(0px) rotate(-315deg);
+    background: rgba(255, 153, 0, 0.699);
+    width:20rem;
+    letter-spacing: 1rem;
+    line-height: 20rem;
+    height: 20rem;
+    margin-top: -10rem;
+    margin-left: -10rem;
+    transition: all 0.5s cubic-bezier(.55,0,.1,1),
+      letter-spacing 1.5s ease-out;
+  }

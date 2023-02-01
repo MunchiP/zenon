@@ -1,0 +1,54 @@
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.line{
+    height: 5px;
+    background: greenyellow;
+    border: none;
+    width: 900px;
+    margin-top: 3rem;
+}
+
+.line1{
+    height: 5px;
+    background: #f9b208;
+    border: none;
+    width: 900px;
+}
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+#intro{
+    margin-left: 28%;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+h1{
+    height: 110px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    background: black;
+    border-radius: 80px;
+    color: aliceblue;
+}
+
+p{
+    width: 600px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: justify;
+}

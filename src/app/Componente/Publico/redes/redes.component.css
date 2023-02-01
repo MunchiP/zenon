@@ -1,0 +1,11 @@
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.line1{
+    height: 5px;
+    background: #f9b208;
+    border: none;
+    width: 900px;
+}

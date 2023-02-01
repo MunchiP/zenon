@@ -1,0 +1,61 @@
+.menuclass1{
+    height: 150px;
+    align-items: flex-end;
+    background-color: aliceblue;  
+}
+
+.imaClass1{
+    height: 130px;
+    margin-bottom: 10px;
+}
+
+a{
+    color: rgb(13, 97, 13);
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-left: 1rem;
+}
+
+a:hover {
+    color: rgb(255, 153, 0);
+}
+
+/* .c1{
+    color: rgb(13, 97, 13);
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-left: 1rem;
+}
+
+.c1:hover {
+    color: rgb(255, 153, 0);
+} */
+
+.iconClass1{
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+}
+
+/* .menuclass{
+    height: 200px;
+    align-items: flex-end;
+    background-color: rgb(13, 97, 13); 
+}
+
+.imaClass{
+    height: 180px;
+    border-radius: 50%;
+    padding: 8px;
+
+}
+
+.iconClass{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.imagenesCollage{
+    transform-style: preserve-3d;
+    animation: rotation 20s infinite linear;
+} */

@@ -1,0 +1,11 @@
+.line{
+    height: 5px;
+    background: greenyellow;
+    border: none;
+    width: 900px;
+}
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}

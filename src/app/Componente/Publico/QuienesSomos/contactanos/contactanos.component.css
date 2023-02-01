@@ -1,0 +1,47 @@
+.line{
+    height: 5px;
+    background: greenyellow;
+    border: none;
+    width: 900px;
+}
+
+.line1{
+    height: 5px;
+    background: #f9b208;
+    border: none;
+    width: 900px;
+}
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.container{
+    width: 100vh;
+    margin: 0 auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    justify-content: center; 
+
+}
+
+.content{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.icon{
+    font-size: 200px;
+    margin-bottom: 10rem;
+    margin-left: 34%;
+}
+
+.imag1{
+    height: 230px;
+    margin: 0 auto;
+}
+
+p{
+    text-align: center;
+}

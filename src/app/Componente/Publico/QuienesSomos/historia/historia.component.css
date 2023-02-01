@@ -1,0 +1,55 @@
+.line1{
+    height: 5px;
+    background: #f9b208;
+    border: none;
+    width: 900px;
+}
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.contenedor{
+    margin-top: 3rem ;
+    margin-bottom: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.imag1{
+    height: 300px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+}
+
+p{
+    width: 600px;
+    text-align: justify;
+    margin-left: 3rem;
+}
+
+.imag2{
+    height: 200px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+    margin-left: 3rem;
+}
+
+.line{
+    height: 5px;
+    background: greenyellow;
+    border: none;
+    width: 900px;
+}
+
+.n1{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-weight: 100;
+}
+
+.logo1{
+    height: 150px;
+    margin-left: 4rem;
+}
